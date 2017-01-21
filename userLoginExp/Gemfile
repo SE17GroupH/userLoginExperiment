@@ -9,6 +9,9 @@ end
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 5.0.1'
 
+#install BootStrap
+gem 'bootstrap-sass', '3.3.6'
+
 # Use bcrypt to hash the password
 gem 'bcrypt', '3.1.11'
 
